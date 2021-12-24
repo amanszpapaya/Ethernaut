@@ -1,0 +1,367 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/arda/Desktop/SmartContract_Hacking/Ethernaut/contracts/coinflip_exp.sol": {
+      "lastModificationDate": 1638054292465,
+      "contentHash": "18120e7a7d30fbf1263dab8c04569ce1",
+      "sourceName": "contracts/coinflip_exp.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.4"
+      ],
+      "artifacts": [
+        "CoinFlipExploit",
+        "CoinFlipInterface"
+      ]
+    },
+    "/Users/arda/Desktop/SmartContract_Hacking/Ethernaut/contracts/telephone_exp.sol": {
+      "lastModificationDate": 1638136747533,
+      "contentHash": "722b2306301e42786116f3886d7957f6",
+      "sourceName": "contracts/telephone_exp.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.4"
+      ],
+      "artifacts": [
+        "TelephoneExploit",
+        "TelephoneInterface"
+      ]
+    },
+    "/Users/arda/Desktop/SmartContract_Hacking/Ethernaut/contracts/token_exp.sol": {
+      "lastModificationDate": 1638057984108,
+      "contentHash": "18e5a3c7e0498c1289d9fd5202cc4c90",
+      "sourceName": "contracts/token_exp.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "TokenExploit",
+        "TokenInterface"
+      ]
+    },
+    "/Users/arda/Desktop/SmartContract_Hacking/Ethernaut/contracts/force_exp.sol": {
+      "lastModificationDate": 1638061099511,
+      "contentHash": "7a1dd1f17f89d3117f0a986a814e3540",
+      "sourceName": "contracts/force_exp.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.4"
+      ],
+      "artifacts": [
+        "ForceExploit"
+      ]
+    },
+    "/Users/arda/Desktop/SmartContract_Hacking/Ethernaut/contracts/reentrancy_exp.sol": {
+      "lastModificationDate": 1638185459885,
+      "contentHash": "4549c3c1185112c95622a1ca7ce4ce99",
+      "sourceName": "contracts/reentrancy_exp.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.4"
+      ],
+      "artifacts": [
+        "ReentranceExploit",
+        "ReentranceInterface"
+      ]
+    },
+    "/Users/arda/Desktop/SmartContract_Hacking/Ethernaut/contracts/elevate_exp.sol": {
+      "lastModificationDate": 1638819407882,
+      "contentHash": "fef89b1e1ea6b310043f179c07fb8b83",
+      "sourceName": "contracts/elevate_exp.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.4"
+      ],
+      "artifacts": [
+        "ElevatorExploit",
+        "ElevatorInterface"
+      ]
+    },
+    "/Users/arda/Desktop/SmartContract_Hacking/Ethernaut/contracts/gatekeeper_one_exp.sol": {
+      "lastModificationDate": 1639769003772,
+      "contentHash": "cd88aa8bf8a45c1395b9d94d3cb32ce1",
+      "sourceName": "contracts/gatekeeper_one_exp.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "0.8.4"
+      ],
+      "artifacts": [
+        "GateKeeperOneExploit",
+        "GateKeeperOneInterface"
+      ]
+    },
+    "/Users/arda/node_modules/hardhat/console.sol": {
+      "lastModificationDate": 1639768778798,
+      "contentHash": "cc4777addd464ea56fa35b1c45df0591",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    },
+    "/Users/arda/Desktop/SmartContract_Hacking/Ethernaut/contracts/naughtcoin_dummy.sol": {
+      "lastModificationDate": 1639771244308,
+      "contentHash": "8685c151a5958cba55cd06e8b14b365e",
+      "sourceName": "contracts/naughtcoin_dummy.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.4"
+      ],
+      "artifacts": [
+        "NaughtCoinExploit"
+      ]
+    },
+    "/Users/arda/Desktop/SmartContract_Hacking/Ethernaut/contracts/preservation_exp.sol": {
+      "lastModificationDate": 1639773587905,
+      "contentHash": "8b07ca8b661d3383e41e8170d9a69369",
+      "sourceName": "contracts/preservation_exp.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "0.8.4"
+      ],
+      "artifacts": [
+        "ExploitLib",
+        "PreservationExploit",
+        "PreservationInterface"
+      ]
+    }
+  }
+}
